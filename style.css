@@ -1,0 +1,46 @@
+  .heading
+  {
+    color: red;
+    
+  }
+  #lens{
+    height: 100px;
+    width: 100px;
+  }
+  .img{
+    height: 300px;
+    width: 300px;
+  }
+.test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5{
+  background-color: gray;
+  border-radius: 10px;
+  box-shadow: 1px 1px 25px gray; 
+margin-top: 15px;
+width: 99%;
+}
+.first,.socend{
+  background-color: white;
+  border-radius: 10px;
+  line-height: 2;
+}
+span{
+  letter-spacing: 1px;
+  color: red;
+  font-weight: bolder;
+}
+
+ .copy_right_footer{
+  position: fixed;
+  color:white;
+  bottom: 0;
+  width:100%;
+  background-color: lightgrey;
+  line-height: 1;
+  text-align: center;
+ }
+ .result{
+  border-radius: 10px;
+  font-size: smaller;
+ }
+
+ 
